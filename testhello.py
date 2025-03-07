@@ -28,7 +28,7 @@ j = {"1", "2", "3"}
 print("j:", type(j))
 
 # 字典
-d = {"1": "小米11", "2": "huawei"}
+d = {"1": "小米1221", "2": "huawei"}
 print("y:", type(d))
 
 # number
